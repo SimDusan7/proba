@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApotekaNEO4J", "ApotekaNEO4J\ApotekaNEO4J.csproj", "{A04F19EE-5A9B-4DFD-A364-A889195120E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A04F19EE-5A9B-4DFD-A364-A889195120E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04F19EE-5A9B-4DFD-A364-A889195120E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04F19EE-5A9B-4DFD-A364-A889195120E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04F19EE-5A9B-4DFD-A364-A889195120E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DFFFCF8-C883-4EFF-8C6F-6F38C3257B3B}
+	EndGlobalSection
+EndGlobal

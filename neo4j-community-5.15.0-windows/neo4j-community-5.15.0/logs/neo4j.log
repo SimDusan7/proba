@@ -1,0 +1,98 @@
+2024-01-17 10:41:29.332+0000 INFO  Logging config in use: File 'C:\Users\Kuca\Desktop\NBP neo4j\neo4j-community-5.15.0-windows\neo4j-community-5.15.0\conf\user-logs.xml'
+2024-01-17 10:41:29.352+0000 INFO  Starting...
+2024-01-17 10:41:30.732+0000 INFO  This instance is ServerId{69430e9a} (69430e9a-0a67-49e7-8b30-c85a33ab5508)
+2024-01-17 10:41:31.659+0000 INFO  ======== Neo4j 5.15.0 ========
+2024-01-17 10:41:34.425+0000 INFO  Bolt enabled on localhost:7687.
+2024-01-17 10:41:35.268+0000 INFO  HTTP enabled on localhost:7474.
+2024-01-17 10:41:35.269+0000 INFO  Remote interface available at http://localhost:7474/
+2024-01-17 10:41:35.274+0000 INFO  id: 0B605E704873AF90BD22CA5465FEB96D4340C3AEC0A8A0C0A756A75F413D2095
+2024-01-17 10:41:35.274+0000 INFO  name: system
+2024-01-17 10:41:35.275+0000 INFO  creationDate: 2024-01-17T10:41:32.484Z
+2024-01-17 10:41:35.275+0000 INFO  Started.
+2024-01-17 10:41:42.311+0000 INFO  Neo4j Server shutdown initiated by request
+2024-01-17 10:41:42.313+0000 INFO  Stopping...
+2024-01-17 10:41:47.676+0000 INFO  Stopped.
+2024-01-17 12:15:49.432+0000 INFO  Logging config in use: File 'C:\Users\Kuca\Desktop\NBP neo4j\neo4j-community-5.15.0-windows\neo4j-community-5.15.0\conf\user-logs.xml'
+2024-01-17 12:15:49.455+0000 INFO  Starting...
+2024-01-17 12:15:50.871+0000 INFO  This instance is ServerId{69430e9a} (69430e9a-0a67-49e7-8b30-c85a33ab5508)
+2024-01-17 12:15:52.107+0000 INFO  ======== Neo4j 5.15.0 ========
+2024-01-17 12:15:54.857+0000 INFO  Bolt enabled on localhost:7687.
+2024-01-17 12:15:55.932+0000 INFO  HTTP enabled on localhost:7474.
+2024-01-17 12:15:55.935+0000 INFO  Remote interface available at http://localhost:7474/
+2024-01-17 12:15:55.940+0000 INFO  id: 0B605E704873AF90BD22CA5465FEB96D4340C3AEC0A8A0C0A756A75F413D2095
+2024-01-17 12:15:55.940+0000 INFO  name: system
+2024-01-17 12:15:55.940+0000 INFO  creationDate: 2024-01-17T10:41:32.484Z
+2024-01-17 12:15:55.940+0000 INFO  Started.
+2024-01-17 12:21:31.029+0000 WARN  [bolt-13] The client is unauthorized due to authentication failure.
+2024-01-17 12:21:47.008+0000 WARN  [bolt-14] The client is unauthorized due to authentication failure.
+2024-01-17 12:21:47.331+0000 WARN  [bolt-15] The client is unauthorized due to authentication failure.
+2024-01-17 14:47:45.135+0000 INFO  Neo4j Server shutdown initiated by request
+2024-01-17 14:47:45.136+0000 INFO  Stopping...
+2024-01-17 14:47:50.192+0000 INFO  Stopped.
+2024-01-17 14:47:53.805+0000 INFO  Logging config in use: File 'C:\Users\Kuca\Desktop\NBP neo4j\neo4j-community-5.15.0-windows\neo4j-community-5.15.0\conf\user-logs.xml'
+2024-01-17 14:47:53.830+0000 INFO  Starting...
+2024-01-17 14:47:55.177+0000 INFO  This instance is ServerId{69430e9a} (69430e9a-0a67-49e7-8b30-c85a33ab5508)
+2024-01-17 14:47:56.265+0000 INFO  ======== Neo4j 5.15.0 ========
+2024-01-17 14:47:58.444+0000 INFO  Bolt enabled on localhost:7687.
+2024-01-17 14:47:59.482+0000 INFO  HTTP enabled on localhost:7474.
+2024-01-17 14:47:59.483+0000 INFO  Remote interface available at http://localhost:7474/
+2024-01-17 14:47:59.489+0000 INFO  id: 0B605E704873AF90BD22CA5465FEB96D4340C3AEC0A8A0C0A756A75F413D2095
+2024-01-17 14:47:59.490+0000 INFO  name: system
+2024-01-17 14:47:59.490+0000 INFO  creationDate: 2024-01-17T10:41:32.484Z
+2024-01-17 14:47:59.491+0000 INFO  Started.
+2024-01-17 17:15:31.068+0000 INFO  Neo4j Server shutdown initiated by request
+2024-01-17 17:15:31.068+0000 INFO  Stopping...
+2024-01-17 17:15:36.391+0000 INFO  Stopped.
+2024-01-17 17:15:49.771+0000 INFO  Logging config in use: File 'C:\Users\Kuca\Desktop\NBP neo4j\neo4j-community-5.15.0-windows\neo4j-community-5.15.0\conf\user-logs.xml'
+2024-01-17 17:15:49.796+0000 INFO  Starting...
+2024-01-17 17:15:51.303+0000 INFO  This instance is ServerId{69430e9a} (69430e9a-0a67-49e7-8b30-c85a33ab5508)
+2024-01-17 17:15:52.375+0000 INFO  ======== Neo4j 5.15.0 ========
+2024-01-17 17:15:54.245+0000 INFO  Bolt enabled on localhost:7687.
+2024-01-17 17:15:55.234+0000 INFO  HTTP enabled on localhost:7474.
+2024-01-17 17:15:55.236+0000 INFO  Remote interface available at http://localhost:7474/
+2024-01-17 17:15:55.241+0000 INFO  id: 0B605E704873AF90BD22CA5465FEB96D4340C3AEC0A8A0C0A756A75F413D2095
+2024-01-17 17:15:55.242+0000 INFO  name: system
+2024-01-17 17:15:55.242+0000 INFO  creationDate: 2024-01-17T10:41:32.484Z
+2024-01-17 17:15:55.243+0000 INFO  Started.
+2024-01-17 20:13:36.403+0000 INFO  Neo4j Server shutdown initiated by request
+2024-01-17 20:13:36.408+0000 INFO  Stopping...
+2024-01-17 20:13:41.678+0000 INFO  Stopped.
+2024-01-17 20:13:47.994+0000 INFO  Logging config in use: File 'C:\Users\Kuca\Desktop\NBP neo4j\neo4j-community-5.15.0-windows\neo4j-community-5.15.0\conf\user-logs.xml'
+2024-01-17 20:13:48.017+0000 INFO  Starting...
+2024-01-17 20:13:49.421+0000 INFO  This instance is ServerId{69430e9a} (69430e9a-0a67-49e7-8b30-c85a33ab5508)
+2024-01-17 20:13:50.459+0000 INFO  ======== Neo4j 5.15.0 ========
+2024-01-17 20:13:52.420+0000 INFO  Bolt enabled on localhost:7687.
+2024-01-17 20:13:53.632+0000 INFO  HTTP enabled on localhost:7474.
+2024-01-17 20:13:53.633+0000 INFO  Remote interface available at http://localhost:7474/
+2024-01-17 20:13:53.640+0000 INFO  id: 0B605E704873AF90BD22CA5465FEB96D4340C3AEC0A8A0C0A756A75F413D2095
+2024-01-17 20:13:53.641+0000 INFO  name: system
+2024-01-17 20:13:53.641+0000 INFO  creationDate: 2024-01-17T10:41:32.484Z
+2024-01-17 20:13:53.642+0000 INFO  Started.
+2024-01-17 20:48:39.709+0000 INFO  Neo4j Server shutdown initiated by request
+2024-01-17 20:48:39.710+0000 INFO  Stopping...
+2024-01-18 15:10:13.541+0000 INFO  Logging config in use: File 'C:\Users\Kuca\Desktop\NBP neo4j\neo4j-community-5.15.0-windows\neo4j-community-5.15.0\conf\user-logs.xml'
+2024-01-18 15:10:13.612+0000 INFO  Starting...
+2024-01-18 15:10:15.894+0000 INFO  This instance is ServerId{69430e9a} (69430e9a-0a67-49e7-8b30-c85a33ab5508)
+2024-01-18 15:10:17.348+0000 INFO  ======== Neo4j 5.15.0 ========
+2024-01-18 15:10:19.753+0000 INFO  Bolt enabled on localhost:7687.
+2024-01-18 15:10:20.836+0000 INFO  HTTP enabled on localhost:7474.
+2024-01-18 15:10:20.841+0000 INFO  Remote interface available at http://localhost:7474/
+2024-01-18 15:10:20.848+0000 INFO  id: 0B605E704873AF90BD22CA5465FEB96D4340C3AEC0A8A0C0A756A75F413D2095
+2024-01-18 15:10:20.848+0000 INFO  name: system
+2024-01-18 15:10:20.849+0000 INFO  creationDate: 2024-01-17T10:41:32.484Z
+2024-01-18 15:10:20.849+0000 INFO  Started.
+2024-01-18 15:17:21.300+0000 INFO  Neo4j Server shutdown initiated by request
+2024-01-18 15:17:21.304+0000 INFO  Stopping...
+2024-01-18 16:25:47.163+0000 INFO  Logging config in use: File 'C:\Users\Kuca\Desktop\NBP neo4j\neo4j-community-5.15.0-windows\neo4j-community-5.15.0\conf\user-logs.xml'
+2024-01-18 16:25:47.185+0000 INFO  Starting...
+2024-01-18 16:25:48.741+0000 INFO  This instance is ServerId{69430e9a} (69430e9a-0a67-49e7-8b30-c85a33ab5508)
+2024-01-18 16:25:49.830+0000 INFO  ======== Neo4j 5.15.0 ========
+2024-01-18 16:25:52.050+0000 INFO  Bolt enabled on localhost:7687.
+2024-01-18 16:25:53.411+0000 INFO  HTTP enabled on localhost:7474.
+2024-01-18 16:25:53.412+0000 INFO  Remote interface available at http://localhost:7474/
+2024-01-18 16:25:53.417+0000 INFO  id: 0B605E704873AF90BD22CA5465FEB96D4340C3AEC0A8A0C0A756A75F413D2095
+2024-01-18 16:25:53.418+0000 INFO  name: system
+2024-01-18 16:25:53.418+0000 INFO  creationDate: 2024-01-17T10:41:32.484Z
+2024-01-18 16:25:53.419+0000 INFO  Started.
+2024-01-18 19:06:50.601+0000 INFO  Neo4j Server shutdown initiated by request
+2024-01-18 19:06:50.603+0000 INFO  Stopping...

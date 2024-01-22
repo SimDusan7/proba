@@ -1,0 +1,2 @@
+neo4j - neo4j console, username:"neo4j", password:"GraphDBMS"
+apotekafrontend - npm start
